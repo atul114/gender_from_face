@@ -20,7 +20,8 @@ As a sample to predict a new image as a male or female a \single_prediction fold
 
 ![screenshot 2018-07-14 23 37 04](https://user-images.githubusercontent.com/20671151/42727199-f4ca1b8a-87bf-11e8-81da-ac46836cf7f6.png)
 
-### Sample prediction (image used for prediction is in \gender_from_face\facedataset\single_prediction\one.jpg )
+### Sample prediction 
+#### (image used for prediction is in \gender_from_face\facedataset\single_prediction\one.jpg )
 
 ![screenshot 2018-07-14 23 47 22](https://user-images.githubusercontent.com/20671151/42727274-2ddbccc4-87c1-11e8-8de0-61d3ea437ef3.png)
 
